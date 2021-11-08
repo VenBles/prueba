@@ -1,14 +1,9 @@
 body
 {
-    color: blue;
+    color: red;
     text-align: center;
-<<<<<<< HEAD
     font-family: 'Arial';
     font-size: 16px;
-=======
-    font-family: Arial;
-    font-size: 17px;
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
